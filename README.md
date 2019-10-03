@@ -236,12 +236,13 @@ ARootSort : 1.5766540000 sec
 
 ## TODO
 
-- [ ] Find a way to check how sorted the array is and replace it with optimal_near_sorted_parameter = ln(n)/ln(2)
+- [ ] Find a way to check how sorted the array is and replace it with optimal_near_sorted_parameter = ln(n)/ln(2).
+- [ ] Program to sort different data types.
 
 
 
 
 ### Last Updated
 
-Time : 03rd October 2019 00:40 IST(Indian Standard Time)
+Time : 03rd October 2019 20:04 IST(Indian Standard Time)
 
