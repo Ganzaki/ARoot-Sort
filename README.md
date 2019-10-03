@@ -3,8 +3,8 @@
 Time : 25th September 2019 12:14 IST(Indian Standard Time)
 
 
-ARoot Sort is highly optimised merge sort with subarray reversing and optimal division of array into subarray for merging.
-It outperforms std::sort that implements introsort by a small margin and aroot sort is a stable sort.
+ARoot Sort is a highly optimised merge sort which performes two different kinds of merge sort based on degree of sortedness of input after subarray reversing.
+It is a stable sort and outperforms std::sort that implements introsort by a small margin.
 
 
 
