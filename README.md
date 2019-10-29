@@ -135,7 +135,7 @@ It is a stable sort and outperforms std::sort that implements introsort by a sma
 
 
 
-## EXECUTION STEP TO CHECK WITH CUSTOM INPUT
+## EXECUTION STEPS TO CHECK WITH CUSTOM INPUT
 
 
 ```bash
