@@ -236,7 +236,6 @@ ARootSort : 1.5766540000 sec
 
 ## TODO
 
-- [ ] Find a way to check how sorted the array is and replace it with optimal_near_sorted_parameter = ln(n)/ln(2).
 - [ ] Program to sort different data types.
 
 
